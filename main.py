@@ -1,4 +1,5 @@
-a=1
-b=2
-
-print(a+b)
+a=10
+if(a>=10):
+  print("Pass")
+else:
+  ("Not pass")
